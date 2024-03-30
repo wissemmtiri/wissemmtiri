@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **mtiri.wissem99@gmail.com**
   
-- ⚡ Call me **KnighTx** <img src="https://static.thenounproject.com/png/588990-200.png" height="20px">
+- ⚡ Call me **KnighTx** <img src="https://static.vecteezy.com/system/resources/thumbnails/016/928/696/small_2x/business-strategy-icon-suitable-for-a-wide-range-of-digital-creative-projects-happy-creating-vector.jpg" height="12px" style="border-radius: 9999px;">
 
 </td>
 <td width="50%" align="center">
