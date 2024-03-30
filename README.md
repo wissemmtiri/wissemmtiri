@@ -1,6 +1,6 @@
 <p align="center"><picture align="center"><img align="center" src ="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture></p>
 <h1 align="center">Hi 👋, I'm Wissem MTIRI</h1>
-<h3 align="center">Code Warrior by Day | CyberSecurity Crusader by Night</h3>
+<h3 align="center">Code Warrior by Day | CyberSecurity Paladin by Night</h3>
 
 <p align="center" style="text-align:center; padding-right:20px; padding-left:20px; ">I'm on a mission to make applications safer, one line of code at a time.  I'm obsessed with DevSecOps and believe security shouldn't be an afterthought, it's the ultimate party crasher for hackers!  Let's build something awesome (and unhackable) together!</p>
 
