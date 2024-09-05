@@ -12,7 +12,7 @@
 
 - 🧑‍🎓 I’m a Computer Networks and Telecommunications engineer at **INSAT** (National Institut of Applied Sciences and Technology)
 
-- 💬 Ask me about **Web Development | CyberSecurity**
+- 💬 Ask me about **DevOps | CyberSecurity**
 
 - 📫 How to reach me **mtiri.wissem99@gmail.com**
   
